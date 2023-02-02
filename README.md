@@ -1,0 +1,1 @@
+With recent news today saying that Twitter will be putting their API calls behind a paywall, I decided to create a quick Selenium script that I've used in the past to avoid the use of Twitter's API. Feel free to use to keep your bots going for free!
