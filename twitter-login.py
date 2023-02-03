@@ -1,6 +1,7 @@
 # Step 1 is to download your desired driver. I used ChromeDriver for this script
 import selenium
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 import time
 
 driver = webdriver.Chrome('Your Local Web Driver File Path')
